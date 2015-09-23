@@ -73,7 +73,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.ServerStarter</mainClass>
+                            <mainClass>cn.injava.my.zookeeper.ServerStarter</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
